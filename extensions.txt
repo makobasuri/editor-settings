@@ -1,0 +1,8 @@
+Beautify
+ESLint
+GitLens
+One Dark Pro
+Path Intellisense
+stylelint
+SVG Viewer
+vscode-icons
